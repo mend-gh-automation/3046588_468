@@ -1,3 +1,6 @@
 {
-  "settingsInheritedFrom": "mend-gh-automation/whitesource-config@main"
+    "settingsInheritedFrom": "mend-gh-automation/whitesource-config@main",
+    "issueSettings": {
+        "minSeverityLevel": "HIGH"
+    }
 }
